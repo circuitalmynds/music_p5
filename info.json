@@ -1,5 +1,153 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "JXKdXCCt78o",
+            "name": "John McLaughlin [JXKdXCCt78o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/John McLaughlin [JXKdXCCt78o].mp4",
+            "size": 6.417440999999999,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/John McLaughlin [JXKdXCCt78o].mp4"
+        },
+        {
+            "id": "4RZLcvVdaJ8",
+            "name": "C.P.E.Bach\uff1a Trio Sonata in F major for Bass Recorder, Viola and B.c Wq.163 H. 588 [4RZLcvVdaJ8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/C.P.E.Bach\uff1a Trio Sonata in F major for Bass Recorder, Viola and B.c Wq.163 H. 588 [4RZLcvVdaJ8].mp4",
+            "size": 41.589836,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/C.P.E.Bach\uff1a Trio Sonata in F major for Bass Recorder, Viola and B.c Wq.163 H. 588 [4RZLcvVdaJ8].mp4"
+        },
+        {
+            "id": "MIIY_0JQbX4",
+            "name": "Freedom [MIIY_0JQbX4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Freedom [MIIY_0JQbX4].mp4",
+            "size": 16.986704,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Freedom [MIIY_0JQbX4].mp4"
+        },
+        {
+            "id": "178ZwajycAI",
+            "name": "Chet Atkins - El Cumbanchero (Reupload) [178ZwajycAI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Chet Atkins - El Cumbanchero (Reupload) [178ZwajycAI].mp4",
+            "size": 5.830474,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Chet Atkins - El Cumbanchero (Reupload) [178ZwajycAI].mp4"
+        },
+        {
+            "id": "nflO9QLPZko",
+            "name": "Bunny Lee Presents The Blackstones (Full Album) [nflO9QLPZko].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Bunny Lee Presents The Blackstones (Full Album) [nflO9QLPZko].mp4",
+            "size": 68.140232,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Bunny Lee Presents The Blackstones (Full Album) [nflO9QLPZko].mp4"
+        },
+        {
+            "id": "xzegGxnTGw8",
+            "name": "Spanish Key [xzegGxnTGw8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Spanish Key [xzegGxnTGw8].mp4",
+            "size": 25.557031,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Spanish Key [xzegGxnTGw8].mp4"
+        },
+        {
+            "id": "1VpLru59bro",
+            "name": "J.S. Bach \u2013 Orchestral Suite No.3 in D major \u2013 Herbert von Karajan, Berliner Philharmoniker, 1965 [1VpLru59bro].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/J.S. Bach \u2013 Orchestral Suite No.3 in D major \u2013 Herbert von Karajan, Berliner Philharmoniker, 1965 [1VpLru59bro].mp4",
+            "size": 72.641204,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/J.S. Bach \u2013 Orchestral Suite No.3 in D major \u2013 Herbert von Karajan, Berliner Philharmoniker, 1965 [1VpLru59bro].mp4"
+        },
+        {
+            "id": "MDZulb7z_pk",
+            "name": "Lola Flores. Colecci\u00f3n Espa\u00f1a #02 (Full Album\u29f8Album Completo) [MDZulb7z_pk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Lola Flores. Colecci\u00f3n Espa\u00f1a #02 (Full Album\u29f8Album Completo) [MDZulb7z_pk].mp4",
+            "size": 64.418622,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Lola Flores. Colecci\u00f3n Espa\u00f1a #02 (Full Album\u29f8Album Completo) [MDZulb7z_pk].mp4"
+        },
+        {
+            "id": " - copy (1)",
+            "name": "Marianne Faithfull - As Tears Go By (1964) (Stereo \u29f8 Lyrics) [S8EykQaZ8CU] - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Marianne Faithfull - As Tears Go By (1964) (Stereo \u29f8 Lyrics) [S8EykQaZ8CU] - copy (1).mp4",
+            "size": 13.489625,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Marianne Faithfull - As Tears Go By (1964) (Stereo \u29f8 Lyrics) [S8EykQaZ8CU] - copy (1).mp4"
+        },
+        {
+            "id": "QZA_kHkn1hw",
+            "name": "Ignacy Feliks Dobrzy\u0144ski - String Sextet in E-Flat Major, Op. 39 [QZA_kHkn1hw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Ignacy Feliks Dobrzy\u0144ski - String Sextet in E-Flat Major, Op. 39 [QZA_kHkn1hw].mp4",
+            "size": 37.115066,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Ignacy Feliks Dobrzy\u0144ski - String Sextet in E-Flat Major, Op. 39 [QZA_kHkn1hw].mp4"
+        },
+        {
+            "id": "ne13dmgB0KU",
+            "name": "Ella Fitzgerald - MacPherson Is Rehearsin' (1938) [ne13dmgB0KU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Ella Fitzgerald - MacPherson Is Rehearsin' (1938) [ne13dmgB0KU].mp4",
+            "size": 57.933519,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Ella Fitzgerald - MacPherson Is Rehearsin' (1938) [ne13dmgB0KU].mp4"
+        },
+        {
+            "id": "wCPsPypRrg0",
+            "name": "Claude Debussy - Piano Trio in G major (1879) [wCPsPypRrg0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Claude Debussy - Piano Trio in G major (1879) [wCPsPypRrg0].mp4",
+            "size": 36.153158,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Claude Debussy - Piano Trio in G major (1879) [wCPsPypRrg0].mp4"
+        },
+        {
+            "id": "301JA2GGAJ4",
+            "name": "Anri - Dancin blue 1984 [301JA2GGAJ4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Anri - Dancin blue 1984 [301JA2GGAJ4].mp4",
+            "size": 50.978078,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Anri - Dancin blue 1984 [301JA2GGAJ4].mp4"
+        },
+        {
+            "id": "QVs5EYngDno",
+            "name": "Tchaikovsky - Suite No. 3 (Score) [QVs5EYngDno].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Tchaikovsky - Suite No. 3 (Score) [QVs5EYngDno].mp4",
+            "size": 59.483332,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Tchaikovsky - Suite No. 3 (Score) [QVs5EYngDno].mp4"
+        },
+        {
+            "id": "F0GGjTp7ZSE",
+            "name": "[Emanuel Ax+LFCO] Haydn\uff1a Piano Concerto in G, Hob.XVIII\u29f84, HD 16_9 [F0GGjTp7ZSE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/[Emanuel Ax+LFCO] Haydn\uff1a Piano Concerto in G, Hob.XVIII\u29f84, HD 16_9 [F0GGjTp7ZSE].mp4",
+            "size": 71.549516,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/[Emanuel Ax+LFCO] Haydn\uff1a Piano Concerto in G, Hob.XVIII\u29f84, HD 16_9 [F0GGjTp7ZSE].mp4"
+        },
+        {
+            "id": "tde_vCJikhY",
+            "name": "Andante Spianato & Grand Polonaise Brillante Op. 22 [tde_vCJikhY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Andante Spianato & Grand Polonaise Brillante Op. 22 [tde_vCJikhY].mp4",
+            "size": 32.414355,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Andante Spianato & Grand Polonaise Brillante Op. 22 [tde_vCJikhY].mp4"
+        },
+        {
+            "id": "Pp4v42suFQg",
+            "name": "Chopin - 7 Polonaises Op. 26, 40, 44, 53, 61 - Vladimir Ashkenazy [Pp4v42suFQg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Chopin - 7 Polonaises Op. 26, 40, 44, 53, 61 - Vladimir Ashkenazy [Pp4v42suFQg].mp4",
+            "size": 95.428501,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Chopin - 7 Polonaises Op. 26, 40, 44, 53, 61 - Vladimir Ashkenazy [Pp4v42suFQg].mp4"
+        },
+        {
+            "id": "s_RdIoHNXLA",
+            "name": "Miles Runs the Voodoo Down [s_RdIoHNXLA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Miles Runs the Voodoo Down [s_RdIoHNXLA].mp4",
+            "size": 20.459531,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Miles Runs the Voodoo Down [s_RdIoHNXLA].mp4"
+        },
+        {
+            "id": "B2yike6Zs9k",
+            "name": "Al Bowlly - The Very Thought Of You (1934) [B2yike6Zs9k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Al Bowlly - The Very Thought Of You (1934) [B2yike6Zs9k].mp4",
+            "size": 37.168636,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Al Bowlly - The Very Thought Of You (1934) [B2yike6Zs9k].mp4"
+        },
+        {
+            "id": "2v191-fg0LI",
+            "name": "Ernesto Lecuona - Danzas Afro-Cubanas pour piano [2v191-fg0LI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/Ernesto Lecuona - Danzas Afro-Cubanas pour piano [2v191-fg0LI].mp4",
+            "size": 17.880701,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/Ernesto Lecuona - Danzas Afro-Cubanas pour piano [2v191-fg0LI].mp4"
+        },
+        {
+            "id": "kq3i7-JPc-o",
+            "name": "DAVE BRUBECK COUNTDOWN [kq3i7-JPc-o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/p5/videos/DAVE BRUBECK COUNTDOWN [kq3i7-JPc-o].mp4",
+            "size": 55.681472,
+            "url": "https://github.com/circuitalmynds/music_p5/raw/main/videos/DAVE BRUBECK COUNTDOWN [kq3i7-JPc-o].mp4"
+        }
+    ],
+    "total_size": 887.317034
 }
